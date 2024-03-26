@@ -1,0 +1,40 @@
+#search {
+    border-radius: 200px;
+}
+
+.navbar-blue {
+    background-color: #13293d;
+}
+
+h5{
+    color: white;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top:5px
+}
+
+i{
+    padding-left: 8px;
+    color: white;
+}
+
+#login {
+    color: white
+}
+
+#registrar {
+    color: white
+}
+
+#shop {
+    color: white
+}
+
+.col {
+    padding: 10px;
+}
+
+img{
+    width: 200px;
+    height: 300px;
+}
