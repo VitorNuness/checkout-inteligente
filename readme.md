@@ -12,7 +12,7 @@
 
 ## Descrição
 
-Um sistema que proporcione uma melhor experiência do cliente na hora da finalização da sua compra trazendo produtos como sugestao para o usuario no momento da finalização da sua compra.
+Um sistema que proporcione uma melhor experiência do cliente na hora da finalização da sua compra trazendo produtos como sugestão para o usuario no momento da finalização da sua compra.
 
 ### Telas
 
@@ -20,9 +20,9 @@ Um sistema que proporcione uma melhor experiência do cliente na hora da finaliz
 
    Pagina para apresentar produtos ao cliente.
 
-   - **Botão Login**: Abrir um popup para o usuario fazer um login
+   - **Botão Login**: Abrir um pop-up para o usuario fazer um login
 
-   - **Botão Registrar-se**: Abrir um modal para o usuario criar uma nova conta
+   - **Botão Registrar-se**: Abrir um pop-up para o usuario criar uma nova conta
 
    - **Botão do Carrinho**: Navega o usuario para seu carrinho
 
