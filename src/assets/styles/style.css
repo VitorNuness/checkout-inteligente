@@ -2,39 +2,45 @@
     border-radius: 200px;
 }
 
-.navbar-blue {
+.navbar-blue,
+.modal-header {
     background-color: #13293d;
+    color: white;
 }
 
-h5{
+h5 {
     color: white;
     padding-left: 8px;
     padding-right: 8px;
-    padding-top:5px
+    padding-top: 5px;
 }
 
-i{
+i {
     padding-left: 8px;
     color: white;
 }
 
 #login {
-    color: white
+    color: white;
 }
 
 #registrar {
-    color: white
+    color: white;
 }
 
 #shop {
-    color: white
+    color: white;
 }
 
 .col {
     padding: 10px;
 }
 
-img{
+img {
     width: 200px;
     height: 300px;
+}
+
+.btn-link {
+    color: white;
 }
